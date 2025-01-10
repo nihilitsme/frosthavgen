@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frosthavgen
+- 👋 Hi, I’m @nihilitsme
 - 👀 I’m interested in Technology , Music 🎵
 - 🌱 I’m currently learning IT (Especially Network , Server, Programming)
 - 💞️ I’m looking to collaborate on (none)
